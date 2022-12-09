@@ -164,6 +164,7 @@ app.get("/transactions", (req, res) => {
     res.json(transactionsData);
 });
 
-app.listen(4001, function () {
-    console.log("server is running at http://localhost:4001");
+const PORT = process.env.PORT || 4001;
+app.listen(PORT, function () {
+    console.log(`server is running at http://localhost:${PORT}`);
 });
