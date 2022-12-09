@@ -70,7 +70,7 @@ const monthData = [
     },
     {
         name: "Nov 16",
-        uv: 40,
+        uv: 38,
         pv: 48,
         amt: 21
     }
@@ -104,13 +104,6 @@ const transactionsData = [
     ),
     createData(
         3,
-        '16 Mar, 2019',
-        'Jiko Mobile App',
-        jikomobileapp,
-        15,
-    ),
-    createData(
-        4,
         '16 Mar, 2019',
         'Jiko Mobile App',
         jikomobileapp,
