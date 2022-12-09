@@ -51,53 +51,28 @@ const monthData = [
         amt: 24
     },
     {
-        name: "Nov 2",
-        uv: 20,
+        name: "Nov 4",
+        uv: 15,
         pv: 13,
         amt: 22
     },
     {
-        name: "Nov 4",
+        name: "Nov 8",
         uv: 25,
         pv: 98,
         amt: 22
     },
     {
-        name: "Nov 6",
-        uv: 30,
+        name: "Nov 12",
+        uv: 10,
         pv: 39,
         amt: 20
     },
     {
-        name: "Nov 8",
-        uv: 35,
-        pv: 48,
-        amt: 21
-    },
-    {
-        name: "Nov 10",
-        uv: 18,
-        pv: 48,
-        amt: 22
-    },
-    {
-        name: "Nov 12",
-        uv: 20,
-        pv: 44,
-        amt: 25
-    }
-    ,
-    {
-        name: "Nov 14",
-        uv: 33,
-        pv: 43,
-        amt: 21
-    },
-    {
         name: "Nov 16",
         uv: 40,
-        pv: 46,
-        amt: 22
+        pv: 48,
+        amt: 21
     }
 ];
 
